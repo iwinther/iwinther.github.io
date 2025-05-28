@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the CDT in NLP, University of Edinburgh advised by Prof. Martin Pickering and Dr. Yevgen Matusevych. I study bilingualism using behavioural and computational methods. I am interested in how two or more languages interact in the bilingual brain, and how this affects the comprehension and production of language.
+I study bilingualism using behavioural and computational methods. My research explores how two (or more) languages interact in the bilingual mind, and how this interaction affects language comprehension and production.
+
+I'm currently a postdoctoral researcher at the Centre for Language Studies at Radboud University, working on the NWO-funded project the _Language Leak_. In this project, I focus on computational modeling of bilingual sentence processing with neural language models, investigating how, when, and to what extent cross-language transfer occurs.
+
+I completed my PhD at the Centre for Doctoral Training in Natural Language Processing at the University of Edinburgh, supervised by Martin Pickering, Yevgen Matusevych, and Robert Hartsuiker.
+
+If you're working on something related, feel free to get in touch!
